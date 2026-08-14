@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-Python lorner, love to code.
+learning python and java, love to code.
 
-🌱 &nbsp;I'm currently learning **Python**
+🌱 &nbsp;I'm currently learning **Python** and **java**
 
 ### 🛠️ Tech Stack
 
